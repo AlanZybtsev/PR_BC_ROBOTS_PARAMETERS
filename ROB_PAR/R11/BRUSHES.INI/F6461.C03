@@ -1,0 +1,456 @@
+[ECOSCREEN]
+Username = ope
+DateTime = 17.11.2023 11:14:22
+ModulName = F6461
+Discription = 23.06.2010    11:26:30
+Atomizer = 11
+ColorGrpNo = 3
+
+[Brush1]
+FM1 = 250
+FM2 = 250
+LM1 = 300
+LM2 = 45000
+HT1 = 400
+
+[Brush2]
+FM1 = 190
+FM2 = 190
+LM1 = 250
+LM2 = 40000
+HT1 = 400
+
+[Brush3]
+FM1 = 50
+FM2 = 50
+LM1 = 225
+LM2 = 40000
+HT1 = 400
+
+[Brush4]
+FM1 = 270
+FM2 = 270
+LM1 = 450
+LM2 = 40000
+HT1 = 400
+
+[Brush5]
+FM1 = 130
+FM2 = 130
+LM1 = 375
+LM2 = 40000
+HT1 = 400
+
+[Brush6]
+FM1 = 240
+FM2 = 240
+LM1 = 225
+LM2 = 40000
+HT1 = 400
+
+[Brush7]
+FM1 = 250
+FM2 = 250
+LM1 = 225
+LM2 = 40000
+HT1 = 400
+
+[Brush8]
+FM1 = 250
+FM2 = 250
+LM1 = 300
+LM2 = 45000
+HT1 = 400
+
+[Brush9]
+FM1 = 110
+FM2 = 110
+LM1 = 450
+LM2 = 40000
+HT1 = 200
+
+[Brush10]
+FM1 = 50
+FM2 = 50
+LM1 = 450
+LM2 = 40000
+HT1 = 200
+
+[Brush11]
+FM1 = 200
+FM2 = 200
+LM1 = 400
+LM2 = 40000
+HT1 = 200
+
+[Brush12]
+FM1 = 100
+FM2 = 100
+LM1 = 300
+LM2 = 40000
+HT1 = 250
+
+[Brush13]
+FM1 = 200
+FM2 = 200
+LM1 = 250
+LM2 = 45000
+HT1 = 400
+
+[Brush14]
+FM1 = 225
+FM2 = 225
+LM1 = 225
+LM2 = 40000
+HT1 = 400
+
+[Brush15]
+FM1 = 330
+FM2 = 330
+LM1 = 225
+LM2 = 40000
+HT1 = 400
+
+[Brush16]
+FM1 = 300
+FM2 = 300
+LM1 = 225
+LM2 = 40000
+HT1 = 400
+
+[Brush17]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush18]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush19]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush20]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush21]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush22]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush23]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush24]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush25]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush26]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush27]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush28]
+FM1 = 150
+FM2 = 150
+LM1 = 350
+LM2 = 45000
+HT1 = 200
+
+[Brush29]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush30]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush31]
+FM1 = 250
+FM2 = 250
+LM1 = 300
+LM2 = 45000
+HT1 = 200
+
+[Brush32]
+FM1 = 250
+FM2 = 250
+LM1 = 300
+LM2 = 45000
+HT1 = 200
+
+[Brush33]
+FM1 = 250
+FM2 = 250
+LM1 = 300
+LM2 = 45000
+HT1 = 400
+
+[Brush34]
+FM1 = 250
+FM2 = 250
+LM1 = 300
+LM2 = 45000
+HT1 = 400
+
+[Brush35]
+FM1 = 250
+FM2 = 250
+LM1 = 300
+LM2 = 45000
+HT1 = 400
+
+[Brush36]
+FM1 = 200
+FM2 = 200
+LM1 = 350
+LM2 = 45000
+HT1 = 200
+
+[Brush37]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush38]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush39]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush40]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush41]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush42]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush43]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush44]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush45]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush46]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush47]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush48]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush49]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush50]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush51]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush52]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush53]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush54]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush55]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush56]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush57]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush58]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush59]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush60]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush61]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush62]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush63]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
+[Brush64]
+FM1 = 0
+FM2 = 0
+LM1 = 0
+LM2 = 0
+HT1 = 0
+
